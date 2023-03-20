@@ -1,0 +1,32 @@
+.core-card {
+  border-radius: 4px;
+  border: solid 1px #e0e0e0;
+  background-color: #ffffff;
+  padding: 16px;
+}
+
+.login {
+  background: url("/instagram/admin/images/bg_login.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 126px;
+  background-position: center;
+  .login-content {
+    width: 416px;
+    height: fit-content;
+    border-radius: 4px;
+    border: solid 1px #e0e0e0;
+    background-color: #ffffff;
+    padding: 16px;
+    margin: auto;
+  }
+  .title-login {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: center;
+    color: #2a2a2c;
+    margin-bottom: 18px;
+  }
+}
